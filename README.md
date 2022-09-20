@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 CHECK My Javascript Game (in progress) --> [Javascript Game](https://gombi007.github.io/) 
-><br/> 
+<br/> 
 CHECK the code --> [Game Source Code](https://github.com/Gombi007/gombi007.github.io)
 
 <br/><br/> 
 
 CHECK My Game Webshop Like Steam (frontend,backend,sql, in progress) --> [Steam Clone App](https://gamer-island.herokuapp.com/#/) 
-><br/> 
+<br/> 
 CHECK the code --> [Webshop Source Code](https://github.com/Gombi007/Gamer-Island)
 
 <br/><br/> 
