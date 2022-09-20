@@ -7,6 +7,10 @@ CHECK the code --> [Game Source Code](https://github.com/Gombi007/gombi007.githu
 CHECK My Game Webshop Like Steam (frontend,backend,sql, in progress) --> [Steam Clone App](https://gamer-island.herokuapp.com/#/) 
 <br/> 
 CHECK the code --> [Webshop Source Code](https://github.com/Gombi007/Gamer-Island)
+<br/> 
+CHECK My Online Dictionary (frontend,backend,sql, in progress) --> [Potplayer Dictionary](https://potplayer-dictionary.herokuapp.com/#/main) 
+<br/> 
+CHECK the code --> [Potplayer Dictionary Code](https://github.com/Gombi007/PotPlayer-Dictionary)
 
 <br/><br/> 
 
