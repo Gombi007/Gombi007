@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 CHECK My Javascript Game (in progress) --> [Javascript Game](https://gombi007.github.io/) 
+><br/> 
 CHECK the code --> [Game Source Code](https://github.com/Gombi007/gombi007.github.io)
 
 <br/><br/> 
 
-CHECK My Game Webshop Like Steam (frontend,backend,sql, in progress) --> [Steam Clone App](https://gamer-island.herokuapp.com/#/)  &nbsp; &nbsp; &nbsp; &nbsp; CHECK the code --> [Webshop Source Code](https://github.com/Gombi007/Gamer-Island)
+CHECK My Game Webshop Like Steam (frontend,backend,sql, in progress) --> [Steam Clone App](https://gamer-island.herokuapp.com/#/) 
+><br/> 
+CHECK the code --> [Webshop Source Code](https://github.com/Gombi007/Gamer-Island)
 
 <br/><br/> 
 
