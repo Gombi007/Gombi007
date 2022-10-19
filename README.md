@@ -1,12 +1,8 @@
 ### Hi there 👋
-
-##Main Projects
 <br>
 Note app to mobile(in progress)
 <br/> 
 CHECK the code --> [Game Source Code](https://github.com/Gombi007/My-Notes)
-<br/><br/> 
-CHECK the code --> [Game Source Code](https://github.com/Gombi007/gombi007.github.io)
 <br/><br/> 
 CHECK My Javascript Game (in progress) --> [Javascript Game](https://gombi007.github.io/) 
 <br/> 
