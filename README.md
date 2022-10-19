@@ -4,10 +4,6 @@ Note app to mobile(in progress)
 <br/> 
 CHECK the code --> [Game Source Code](https://github.com/Gombi007/My-Notes)
 <br/><br/> 
-CHECK My Javascript Game (in progress) --> [Javascript Game](https://gombi007.github.io/) 
-<br/> 
-CHECK the code --> [Game Source Code](https://github.com/Gombi007/gombi007.github.io)
-<br/><br/> 
 CHECK My Game Webshop Like Steam (frontend,backend,sql, in progress) --> [Steam Clone App](https://gamer-island.herokuapp.com/#/) 
 <br/> 
 CHECK the code --> [Webshop Source Code](https://github.com/Gombi007/Gamer-Island)
@@ -15,7 +11,10 @@ CHECK the code --> [Webshop Source Code](https://github.com/Gombi007/Gamer-Islan
 CHECK My Online Dictionary (frontend,backend,sql, in progress) --> [Potplayer Dictionary](https://potplayer-dictionary.herokuapp.com/#/main) 
 <br/> 
 CHECK the code --> [Potplayer Dictionary Code](https://github.com/Gombi007/PotPlayer-Dictionary)
-
+<br/><br/> 
+CHECK My Javascript Game (in progress) --> [Javascript Game](https://gombi007.github.io/) 
+<br/> 
+CHECK the code --> [Game Source Code](https://github.com/Gombi007/gombi007.github.io)
 <br/><br/> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
