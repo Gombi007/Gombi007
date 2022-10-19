@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br>
+
 Note app to mobile(in progress)
 <br/> 
 CHECK the code --> [Game Source Code](https://github.com/Gombi007/My-Notes)
