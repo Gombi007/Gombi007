@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-Note app to mobile(in progress)
+Community App to mobile(in progress)
 <br/> 
-CHECK the code --> [Game Source Code](https://github.com/Gombi007/My-Notes)
+CHECK the code --> [Source Code](https://github.com/Gombi007/My-Notes)
 <br/><br/> 
+
 CHECK My Game Webshop Like Steam (frontend,backend,sql, in progress) --> [Steam Clone App](https://gamer-island.herokuapp.com/#/) 
 <br/> 
 CHECK the code --> [Webshop Source Code](https://github.com/Gombi007/Gamer-Island)
-<br/><br/>
-CHECK My Online Dictionary (frontend,backend,sql, in progress) --> [Potplayer Dictionary](https://potplayer-dictionary.herokuapp.com/#/main) 
-<br/> 
-CHECK the code --> [Potplayer Dictionary Code](https://github.com/Gombi007/PotPlayer-Dictionary)
+
 <br/><br/> 
 CHECK My Javascript Game (in progress) --> [Javascript Game](https://gombi007.github.io/) 
 <br/> 
