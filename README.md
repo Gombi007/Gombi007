@@ -4,9 +4,6 @@ Gamer Island: Store And Community App
 <br/> 
 CHECK the code --> [Source Code](https://github.com/Gombi007/My-Notes)
 
-<br/><br/> 
-<br/><br/> 
-
 CHECK My Javascript Game (in progress) --> [Javascript Game](https://gombi007.github.io/) 
 <br/> 
 CHECK the code --> [Game Source Code](https://github.com/Gombi007/gombi007.github.io)
