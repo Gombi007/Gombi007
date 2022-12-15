@@ -1,9 +1,10 @@
 ### Hi there 👋
-
+MAIN PROJECT:
 Gamer Island: Store And Community App (in progress)
 <br/> 
 CHECK the code --> [Source Code](https://github.com/Gombi007/My-Notes)
 
+SIDE PROJECT:
 My Javascript Game --> [Javascript Game](https://gombi007.github.io/) 
 <br/> 
 CHECK the code --> [Game Source Code](https://github.com/Gombi007/gombi007.github.io)
