@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-Community App to mobile(in progress)
+Gamer Island: Store And Community App
 <br/> 
 CHECK the code --> [Source Code](https://github.com/Gombi007/My-Notes)
-<br/><br/> 
-
-CHECK My Game Webshop Like Steam (frontend,backend,sql, in progress) --> [Steam Clone App](https://gamer-island.herokuapp.com/#/) 
-<br/> 
-CHECK the code --> [Webshop Source Code](https://github.com/Gombi007/Gamer-Island)
 
 <br/><br/> 
+<br/><br/> 
+
 CHECK My Javascript Game (in progress) --> [Javascript Game](https://gombi007.github.io/) 
 <br/> 
 CHECK the code --> [Game Source Code](https://github.com/Gombi007/gombi007.github.io)
