@@ -2,6 +2,7 @@
 MAIN PROJECT:<br/> 
 Gamer Island: Store And Community App (in progress)
 <br/> 
+Look at this app on mobile or desktop  [Check my app(https://gombisoft.hu/) 
 CHECK the code --> [Source Code](https://github.com/Gombi007/My-Notes)
 
 SIDE PROJECT:<br/> 
