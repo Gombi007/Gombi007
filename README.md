@@ -1,10 +1,19 @@
 ### Hi there 👋
-MAIN PROJECT:<br/> 
+MAIN PROJECT 1:<br/> 
 Gamer Island: Store And Community App (in progress)
 <br/> 
 Look at this app on mobile or desktop  [Check my app](https://gombisoft.hu/) 
 <br/>
 CHECK the code --> [Source Code](https://github.com/Gombi007/My-Notes)
+
+------------------
+
+MAIN PROJECT 2:<br/> 
+Service-Desk:This is a service desk desktop app with Electron-Angular-Springboot (in progress)
+<br/> 
+CHECK the code --> [Source Code](https://github.com/Gombi007/Service-Desk)
+
+------------------
 
 SIDE PROJECT:<br/> 
 My Javascript Game --> [Javascript Game](https://gombi007.github.io/) 
