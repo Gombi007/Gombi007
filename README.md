@@ -8,13 +8,6 @@ CHECK the code --> [Source Code](https://github.com/Gombi007/My-Notes)
 
 ------------------
 
-MAIN PROJECT 2:<br/> 
-Service-Desk:This is a service desk desktop app with Electron-Angular-Springboot (in progress)
-<br/> 
-CHECK the code --> [Source Code](https://github.com/Gombi007/Service-Desk)
-
-------------------
-
 SIDE PROJECT:<br/> 
 My Javascript Game --> [Javascript Game](https://gombi007.github.io/) 
 <br/> 
@@ -29,7 +22,6 @@ CHECK the code --> [Game Source Code](https://github.com/Gombi007/gombi007.githu
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 &nbsp;&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
