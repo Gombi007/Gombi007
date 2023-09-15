@@ -1,10 +1,7 @@
 ### Hi there 👋
 MAIN PROJECT 1:<br/> 
-Gamer Island: Store And Community App (in progress)
-<br/> 
-Look at this app on mobile or desktop  [Check my app](https://gamer-island.gombisoft.hu/) 
-<br/>
-CHECK the code --> [Source Code](https://github.com/Gombi007/My-Notes)
+Gamer Island: Store And Community App
+Under construction....
 
 ------------------
 
